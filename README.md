@@ -18,10 +18,6 @@
 
 Program çalıştırıldığında, personel bilgilerini alır ve ikramiye miktarlarını hesaplar. Hesaplanan ikramiye miktarları ALV tablosunda gösterilir.
 
-## Katkıda Bulunma
-
-Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
-
 ## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
